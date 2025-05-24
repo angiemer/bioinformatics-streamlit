@@ -10,3 +10,4 @@ __pycache__/
 .env
 *.log
 *.zip
+echo "*.h5ad" >> .gitignore
